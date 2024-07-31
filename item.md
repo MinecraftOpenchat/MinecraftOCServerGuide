@@ -27,7 +27,7 @@
 ### 魔法系
 魔法系アイテムは基本クールタイムが設けられており、使用するたびにクールタイムが発生する。
 #### Wand of Hello World!
-![alt text](Magic0HelloWorld!.png)
+![alt text](images/Magic0HelloWorld!.png)
 ```
 チャットに「Hello World!」を出力する魔法。
 クールタイムは1秒。
@@ -35,7 +35,7 @@
 チュートリアル的アイテム。
 ```
 #### Wand of Magic Missile
-![alt text](Magic1MagicMissile.png)
+![alt text](images/Magic1MagicMissile.png)
 * アメジストの欠片
 * 棒
 * ラピスラズリ
@@ -49,7 +49,7 @@
 ### ツール系
 便利なアイテムです。
 #### Grapple
-![alt text](I0Grapple.png)
+![alt text](images/I0Grapple.png)
 * [Enchanted Iron Ingot](#enchanted-iron-ingot) ×3
 * 釣り竿
 ```
@@ -61,95 +61,95 @@
 ### 素材系
 中間素材
 #### Enchanted Coal
-![alt text](M0EnchantedCoal.png)
+![alt text](images/M0EnchantedCoal.png)
 * 石炭ブロック ×9
 ```
 石炭ブロックの圧縮！
 燃料として使うのはやめようね、もったいないよ。
 ```
 #### Enchanted Coal Block
-![alt text](M1EnchantedCoalBlock.png)
+![alt text](images/M1EnchantedCoalBlock.png)
 * [Enchanted Coal](#enchanted-coal) ×9
 ```
 更に圧縮！
 燃料として使うのはやめようね、本当にもったいないよ。
 ```
 #### Enchanted Emerald
-![alt text](M2EnchantedEmerald.png)
+![alt text](images/M2EnchantedEmerald.png)
 * エメラルドブロック ×9
 ```
 エメラルドブロックの圧縮！
 村人の取引に使うのはやめようね、もったいないよ。
 ```
 #### Enchanted Emerald Block
-![alt text](M3EnchantedEmeraldBlock.png)
+![alt text](images/M3EnchantedEmeraldBlock.png)
 * [Enchanted Emerald](#enchanted-emerald) ×9
 ```
 更に圧縮！
 ```
 #### Enchanted LapisLazuli
-![alt text](M4EnchantedLapisLazuli.png)
+![alt text](images/M4EnchantedLapisLazuli.png)
 * ラピスラズリブロック ×9
 ```
 ラピスラズリブロックの圧縮！
 エンチャントに使うのはやめようね、もったいないよ。
 ```
 #### Enchanted LapisLazuli Block
-![alt text](M5EnchantedLapisLazuliBlock.png)
+![alt text](images/M5EnchantedLapisLazuliBlock.png)
 * [Enchanted LapisLazuli](#enchanted-lapislazuli) ×9
 ```
 更に圧縮！
 ```
 #### Enchanted Diamond
-![alt text](M6EnchantedDiamond.png)
+![alt text](images/M6EnchantedDiamond.png)
 * ダイヤモンドブロック ×9
 ```
 ダイヤモンドブロックの圧縮！
 噛んだら歯が欠ける！
 ```
 #### Enchanted Diamond Block
-![alt text](M7EnchantedDiamondBlock.png)
+![alt text](images/M7EnchantedDiamondBlock.png)
 * [Enchanted Diamond](#enchanted-diamond) ×9
 ```
 更に圧縮！
 嚙んだら更に歯が欠ける！
 ```
 #### Enchanted Iron Ingot
-![alt text](M8EnchantedIronIngot.png)
+![alt text](images/M8EnchantedIronIngot.png)
 * 鉄ブロック ×9
 ```
 鉄ブロックの圧縮！
 アイアンゴーレムの修復に使うのはやめようね、もったいないよ。
 ```
 #### Enchanted Iron Block
-![alt text](M9EnchantedIronBlock.png)
+![alt text](images/M9EnchantedIronBlock.png)
 * [Enchanted Iron Ingot](#enchanted-iron-ingot) ×9
 ```
 更に圧縮！
 ```
 #### Enchanted Copper Ingot
-![alt text](M10EnchantedCopperIngot.png)
+![alt text](images/M10EnchantedCopperIngot.png)
 * 銅ブロック ×9
 ```
 銅ブロックの圧縮！
 銅ってあんま使い道ないよね。
 ```
 #### Enchanted Copper Block
-![alt text](M11EnchantedCopperBlock.png)
+![alt text](images/M11EnchantedCopperBlock.png)
 * [Enchanted Copper Ingot](#enchanted-copper-ingot) ×9
 ```
 更に圧縮！
 なんども言うけど銅ってあんま使い道ないよね。
 ```
 #### Enchanted Gold Ingot
-![alt text](M12EnchantedGoldIngot.png)
+![alt text](images/M12EnchantedGoldIngot.png)
 * 金ブロック ×9
 ```
 金ブロックの圧縮！
 金の価値上がってるらしい。
 ```
 #### Enchanted Gold Block
-![alt text](M13EnchantedGoldBlock.png)
+![alt text](images/M13EnchantedGoldBlock.png)
 * [Enchanted Gold Ingot](#enchanted-gold-ingot) ×9
 ```
 更に圧縮！
