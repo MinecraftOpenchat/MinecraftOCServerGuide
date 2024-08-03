@@ -3,6 +3,8 @@
 ### 魔法系
 * [Wand of Hello World!](#wand-of-hello-world)
 * [Wand of Magic Missile](#wand-of-magic-missile)
+* [Wand of Fire](#wand-of-fire)
+* [Wand of Gliding](#wand-of-gliding)
 
 ### ツール系
 * [Grapple](#grapple)
@@ -22,6 +24,8 @@
 * [Enchanted Copper Block](#enchanted-copper-block)
 * [Enchanted Gold Ingot](#enchanted-gold-ingot)
 * [Enchanted Gold Block](#enchanted-gold-block)
+* [Enchanted Redstone](#enchanted-redstone)
+* [Enchanted Redstone Block](#enchanted-redstone-block)
 
 ## 仕様
 ### 魔法系
@@ -44,6 +48,27 @@
 当たったエンティティに5ダメージ与える。
 クールタイムは15秒。
 書いてないけど20m先まで届くよ！
+```
+#### Wand of Fire
+![alt text](images/Magic2Fire.png)
+* ブレイズパウダー
+* 棒
+* ラピスラズリ
+```
+炎の弾を発射する魔法。
+当たったエンティティを5秒間着火させる
+クールタイムは15秒。
+書いてないけど20m先まで届くよ！
+```
+#### Wand of Gliding
+![alt text](images/Magic3Gliding.png)
+* ファントムの皮膜
+* 棒
+* ラピスラズリ
+```
+上にぶっ飛ぶ。
+ぶっ飛んだあとは少しの間低速落下がつく。
+使ってて楽しい。
 ```
 
 ### ツール系
@@ -154,4 +179,18 @@
 ```
 更に圧縮！
 言ってなかったけど、取引に使うのはやめようね、もったいないよ。
+```
+#### Enchanted Redstone
+![alt text](images/M14EnchantedRedstone.png)
+* レッドストーンブロック ×9
+```
+レッドストーンブロックの圧縮！
+追加するの忘れてた。
+```
+#### Enchanted Redstone Block
+![alt text](images/M15EnchantedRedstoneBlock.png)
+* [Enchanted Redstone](#enchanted-redstone) ×9
+```
+更に圧縮！
+追加するの忘れてた。
 ```
