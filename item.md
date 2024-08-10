@@ -5,6 +5,7 @@
 * [Wand of Magic Missile](#wand-of-magic-missile)
 * [Wand of Fire](#wand-of-fire)
 * [Wand of Gliding](#wand-of-gliding)
+* [Cleaver](#cleaver)
 
 ### ツール系
 * [Grapple](#grapple)
@@ -69,6 +70,17 @@
 上にぶっ飛ぶ。
 ぶっ飛んだあとは少しの間低速落下がつく。
 使ってて楽しい。
+```
+#### Cleaver
+![alt text](images/Magic4Cleaver.png)
+* [Enchanted Gold Ingot](#enchanted-gold-ingot)
+* 棒
+* ラピスラズリ
+```
+対象のHPが1以下の場合貫通ダメージを与えて倒す魔法。
+魔法を使って倒すとSteveの頭がドロップする。
+また、剣そのものを使って攻撃した場合、どれだけ殴ってもHPが1残る。
+エンチャントもできる。
 ```
 
 ### ツール系
