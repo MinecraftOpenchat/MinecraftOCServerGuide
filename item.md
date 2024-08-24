@@ -6,9 +6,14 @@
 * [Wand of Fire](#wand-of-fire)
 * [Wand of Gliding](#wand-of-gliding)
 * [Cleaver](#cleaver)
+* [Aspect of the Sculk](#aspect-of-the-sculk)
+* [Wand of Bullets](#wand-of-bullets)
 
 ### ツール系
 * [Grapple](#grapple)
+* [Sword of Looting](#sword-of-looting)
+* [Hoe of Fortune](#hoe-of-fortune)
+* [Skeleton Bow](#skeleton-bow)
 
 ### 素材系
 * [Enchanted Coal](#enchanted-coal)
@@ -27,6 +32,7 @@
 * [Enchanted Gold Block](#enchanted-gold-block)
 * [Enchanted Redstone](#enchanted-redstone)
 * [Enchanted Redstone Block](#enchanted-redstone-block)
+* [Sculk Core](#sculk-core)
 
 ## 仕様
 ### 魔法系
@@ -82,6 +88,26 @@
 また、剣そのものを使って攻撃した場合、どれだけ殴ってもHPが1残る。
 エンチャントもできる。
 ```
+#### Aspect of the Sculk
+![alt text](images/Magic5SonicBoom.png)
+* [Sculk Core](#sculk-core)
+* [Enchanted LapisLazuli Block](#enchanted-lapislazuli-block)
+* 棒
+```
+SonicBoomを撃てます。
+防具貫通15ダメージ！
+強い！
+そして長すぎるクールタイム！
+```
+#### Wand of Bullets
+![alt text](images/Magic6MagicBullets.png)
+* 雪玉
+* 棒
+* ラピスラズリ
+```
+弾幕を撃てます。
+ちょっと強いと思う
+```
 
 ### ツール系
 便利なアイテムです。
@@ -93,6 +119,44 @@
 移動系アイテム史上最強のアイテム
 床、壁、天井があれば引っ張ることで飛ぶことができる
 これがあるかないかだけでQOLが大きく変わる
+```
+#### Sword of Looting
+![alt text](images/I1SwordofLooting.png)
+* [Enchanted Iron Block](#enchanted-iron-block) ×2
+* 棒
+```
+Mobが本来落とさないアイテムをドロップするようになります。
+ドロップ増加を付けると抽選回数がレベル分行われます。
+```
+| アイテム | 入手方法 |
+| :--- | :--- |
+| Enchanted Iron Ingot | ゾンビから1/500でドロップ |
+| Enchanted Copper Ingot | ドラウンドから1/100でドロップ |
+| Enchanted Gold Ingot | ゾンビピグリンから1/1000でドロップ |
+| Enchanted RedStone | ウィッチから1/500でドロップ |
+| Enchanted Coal | ウィザースケルトンから1/500でドロップ |
+| Skeleton Bow | スケルトンから1/500でドロップ |
+| Sculk Core | ウォーデンから1/100でドロップ |
+#### Hoe of Fortune
+![alt text](images/I2HoeofFortune.png)
+* [Enchanted Iron Block](#enchanted-iron-block) ×2
+* 棒 ×2
+```
+ブロックから本来落とさないアイテムをドロップするようになります。
+幸運を付けると抽選回数がレベル分行われます。
+```
+| アイテム | 入手方法 |
+| :--- | :--- |
+| リンゴ | 成長しきった作物から1/400でドロップ |
+| 金リンゴ | オークの葉・ダークオークの葉から1/500でドロップ<br>もしくは、成長しきった作物から1/1000でドロップ |
+| エンチャントされた金リンゴ | オークの葉・ダークオークの葉から1/10000でドロップ<br>もしくは、成長しきった作物から1/20000でドロップ |
+#### Skeleton Bow
+![alt text](images/I3SkeletonBow.png)
+* [Sword of Looting](#sword-of-looting)
+```
+Sword of Lootingでスケルトンを倒したときに1/500の確立でドロップする。
+フルチャージの状態で敵に矢を当てるとHPを1回復する。
+追加でエンチャントをしたり、弓を合成して修繕するとは不可能。
 ```
 
 ### 素材系
@@ -205,4 +269,11 @@
 ```
 更に圧縮！
 追加するの忘れてた。
+```
+#### Sculk Core
+![alt text](images/M16SculkCore.png)
+* [Sword of Looting](#sword-of-looting)
+```
+Sword of Lootingでウォーデンを倒したときに1/100の確立でドロップする。
+中間素材。
 ```
