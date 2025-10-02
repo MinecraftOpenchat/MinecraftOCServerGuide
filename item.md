@@ -8,6 +8,8 @@
 * [Cleaver](#cleaver)
 * [Aspect of the Sculk](#aspect-of-the-sculk)
 * [Wand of Bullets](#wand-of-bullets)
+* [Wand of Dirt](#wand-of-dirt)
+* [Wand of Remote Controller](#wand-of-remote-controller)
 
 ### ツール系
 * [Grapple](#grapple)
@@ -108,6 +110,16 @@ SonicBoomを撃てます。
 弾幕を撃てます。
 ちょっと強いと思う
 ```
+#### Wand of Dirt
+![alt text](images/Magic7Dirt.png)
+* 土
+* 棒
+* ラピスラズリ
+#### Wand of Remote Controller
+![alt text](images/Magic8RemoteController.png)
+* [Enchanted Redstone](#enchanted-redstone)
+* 棒
+* ラピスラズリ
 
 ### ツール系
 便利なアイテムです。
