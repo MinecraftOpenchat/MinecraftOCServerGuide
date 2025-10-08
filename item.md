@@ -10,6 +10,7 @@
 * [Wand of Bullets](#wand-of-bullets)
 * [Wand of Dirt](#wand-of-dirt)
 * [Wand of Remote Controller](#wand-of-remote-controller)
+* [Wand of Avoidance](#wand-of-avoidance)
 
 ### ツール系
 * [Grapple](#grapple)
@@ -115,11 +116,28 @@ SonicBoomを撃てます。
 * 土
 * 棒
 * ラピスラズリ
+```
+足元に土を置けます。
+空中にブロックが置けるので地味に便利です。
+```
 #### Wand of Remote Controller
 ![alt text](images/Magic8RemoteController.png)
 * [Enchanted Redstone](#enchanted-redstone)
 * 棒
 * ラピスラズリ
+```
+銅の電球のON/OFFを遠隔操作できます。
+コンパレータと合わせてレッドストーン回路を遠隔操作しましょう！
+```
+### Wand of Avoidance
+![alt text](images/Magic9Avoidance.png)
+* 羽
+* 棒
+* ラピスラズリ
+```
+横に緊急回避できる魔法です。
+"Wand of Gliding" の横移動バージョン的な。
+```
 
 ### ツール系
 便利なアイテムです。
