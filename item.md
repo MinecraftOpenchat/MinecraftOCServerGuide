@@ -11,12 +11,24 @@
 * [Wand of Dirt](#wand-of-dirt)
 * [Wand of Remote Controller](#wand-of-remote-controller)
 * [Wand of Avoidance](#wand-of-avoidance)
+* [Knowledge](#knowledge)
+* [Knowledge of MagicMissile](#knowledge-of-magicmissile)
+* [雷切](#雷切)
+* [Dark Skeleton Sword](#dark-skeleton-sword)
 
 ### ツール系
 * [Grapple](#grapple)
 * [Sword of Looting](#sword-of-looting)
 * [Hoe of Fortune](#hoe-of-fortune)
 * [Skeleton Bow](#skeleton-bow)
+* [Magical Robe](#magical-robe)
+* [Over Enchanted Book](#over-enchanted-book)
+* [ダンジョンの鍵](#ダンジョンの鍵)
+* [Explorer Armor](#explorer-armor)
+* [Warden Armor](#warden-armor)
+* [Trophy of Protected Golem](#trophy-of-protected-golem)
+* [Special Record](#special-record)
+* [ルートチェスト](#ルートチェスト)
 
 ### 素材系
 * [Enchanted Coal](#enchanted-coal)
@@ -129,7 +141,7 @@ SonicBoomを撃てます。
 銅の電球のON/OFFを遠隔操作できます。
 コンパレータと合わせてレッドストーン回路を遠隔操作しましょう！
 ```
-### Wand of Avoidance
+#### Wand of Avoidance
 ![alt text](images/Magic9Avoidance.png)
 * 羽
 * 棒
@@ -137,6 +149,34 @@ SonicBoomを撃てます。
 ```
 横に緊急回避できる魔法です。
 "Wand of Gliding" の横移動バージョン的な。
+```
+
+#### Knowledge
+![alt text](images/Magic13Knowledge.png)
+```
+「Knowledge」
+オフハンド（左手）に持つことで魔法使用時の
+クールタイムが1/2になる。
+```
+
+#### Knowledge of MagicMissile
+![alt text](images/Magic14KnowledgeOfMissile.png)
+```
+「Knowledge of MagicMissile」
+オフハンド（左手）に持つことで「Wand of Magic Missile」使用時の
+クールタイムが80%の確率で発生しなくなる。
+```
+
+#### 雷切
+![alt text](images/Magic15Raikiri.png)
+```
+?????
+```
+
+#### Dark Skeleton Sword
+![alt text](images/Magic16DarkSkeletonSword.png)
+```
+?????
 ```
 
 ### ツール系
@@ -161,13 +201,14 @@ Mobが本来落とさないアイテムをドロップするようになりま�
 
 | アイテム | 入手方法 |
 | :--- | :--- |
-| Enchanted Iron Ingot | ゾンビから1/500でドロップ
-| Enchanted Copper Ingot | ドラウンドから1/100でドロップ
-| Enchanted Gold Ingot | ゾンビピグリンから1/1000でドロップ
-| Enchanted RedStone | ウィッチから1/500でドロップ
-| Enchanted Coal | ウィザースケルトンから1/500でドロップ
-| Skeleton Bow | スケルトンから1/500でドロップ
-| Sculk Core | ウォーデンから1/100でドロップ
+| Enchanted Iron Ingot | ゾンビから1/500でドロップ |
+| Enchanted Copper Ingot | ドラウンドから1/100でドロップ |
+| Enchanted Gold Ingot | ゾンビピグリンから1/1000でドロップ |
+| Enchanted RedStone | ウィッチから1/500でドロップ |
+| Enchanted Coal | ウィザースケルトンから1/500でドロップ |
+| Skeleton Bow | スケルトンから1/500でドロップ |
+| Sculk Core | ウォーデンから1/100でドロップ |
+| Special Record | クリーパーから1/100でドロップ |
 
 #### Hoe of Fortune
 ![alt text](images/I2HoeofFortune.png)
@@ -191,6 +232,84 @@ Mobが本来落とさないアイテムをドロップするようになりま�
 Sword of Lootingでスケルトンを倒したときに1/500の確立でドロップする。
 フルチャージの状態で敵に矢を当てるとHPを1回復する。
 追加でエンチャントをしたり、弓を合成して修繕するとは不可能。
+```
+
+#### Magical Robe
+![alt text](images/I4MagicalRobe.png)
+* 革のチェストプレート
+* アメジスト ×7
+```
+装備すると「Wand of Magic Missile」のダメージが+5されるローブ。
+耐久値は無限（Unbreakable）。
+```
+
+#### Over Enchanted Book
+![alt text](images/I5OverEnchantedBook.png)
+```
+バニラの限界を超えたエンチャントレベルを付与できる本。
+金床で使用し、既に最大レベルのエンチャントが付いているアイテムに
+同じエンチャントの本を合成すると、レベルを+1できる。
+合成コストは一律で30レベル固定。
+```
+
+#### ダンジョンの鍵
+![alt text](images/I6DungeonKey.png)
+```
+ダンジョン内でドアを開けるのに使用する。
+鍵の種類が一致していないと開けることができない。
+```
+
+#### Explorer Armor
+![alt text](images/I7ExplorerArmor.png)
+```
+ダンジョン内限定で強力なボーナスを発揮する防具。
+アイアン（Iron）とレザー（Leather）の2種類が存在する。
+
+【Ironセットボーナス（ダンジョン内）】
+- 各部位: 近接攻撃+1.0, HP+2
+- フルセット: 近接攻撃+1.0, HP+2
+（合計: 攻撃力+5, HP+10）
+
+【Leatherセットボーナス（ダンジョン内）】
+- 各部位: 近接攻撃+0.5, HP+1
+- フルセット: 近接攻撃+0.5, HP+1
+（合計: 攻撃力+2.5, HP+5）
+```
+
+#### Warden Armor
+![alt text](images/I8WardenArmor.png)
+* [Sculk Core](#sculk-core)
+```
+「Aspect of the Sculk (SonicBoom)」を強化する防具。
+耐久値は無限。
+
+【セットボーナス】
+- 各部位: 近接攻撃+0.5, SonicBoomダメージ+1
+- フルセット: 近接攻撃+0.5, SonicBoomダメージ+1
+（合計: 攻撃力+2.5, SonicBoomダメージ+5）
+```
+
+#### Trophy of Protected Golem
+![alt text](images/I9Trophy.png)
+```
+?????
+後々何かに使おうと思ってるので捨てないでね。
+```
+
+#### Special Record
+![alt text](images/I10SpecialRecord.png)
+```
+レアなBGM（Shin - Rare Drop）が流れるレコード。
+Sword of Lootingでクリーパーを倒すと稀にドロップする。
+```
+
+#### ルートチェスト
+![alt text](images/I11LootChest.png)
+```
+右クリックで使用すると中からアイテムが飛び出す箱。
+コモン（Common）からレジェンダリー（Legendary）までランクがあり、
+高ランクほどレアな素材や魔法、限界突破本などが出現しやすい。
+(実は通常のランク以外のルートチェスト以外も存在して・・・)
 ```
 
 ### 素材系
