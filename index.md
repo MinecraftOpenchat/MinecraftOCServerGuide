@@ -15,3 +15,4 @@ Java版Bedrock版(統合版)両方に対応しています！<br>
 ## 追加要素
 * [土地の保護](playerregionclaim.md)
 * [追加アイテム](item.md)
+* [戦闘仕様](combatstyle.md)
